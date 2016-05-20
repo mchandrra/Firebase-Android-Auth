@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "473944215526",
+    "firebase_url": "https://android-auth.firebaseio.com",
+    "project_id": "android-auth",
+    "storage_bucket": "android-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473944215526:android:6bacab33201232b7",
+        "android_client_info": {
+          "package_name": "chandrra.com.androidauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473944215526-jbn34gj8ebmi1cbmjn4c66ikpv0tb8l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chandrra.com.androidauth",
+            "certificate_hash": "D1DB50C4D9929788A39CAEE6D7E1F0AE385DD364"
+          }
+        },
+        {
+          "client_id": "473944215526-uvspdufrkupb2epqu6r5ufmmac99mat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yMYwLdt_xnnndEZcd34Px4hN1tkaC_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473944215526-uvspdufrkupb2epqu6r5ufmmac99mat6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
